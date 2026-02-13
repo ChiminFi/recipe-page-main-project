@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [](https://github.com/ChiminFi/recipe-page-main-project)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/ChiminFi/recipe-page-main-project)
+- Live Site URL: [Live site](https://chiminfi.github.io/recipe-page-main-project/)
 
 ## My process
 

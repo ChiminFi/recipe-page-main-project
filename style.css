@@ -100,13 +100,13 @@ hr {
 .text-box {
   display: flex;
   flex-direction: column;
-  gap: 2.4rem;
+  gap: 3.2rem;
 }
 
 .omelette-pic {
   width: 100%;
   border-radius: 8px;
-  margin-bottom: 2.4rem;
+  margin-bottom: 4.8rem;
 }
 
 .omelette-intro h1 {
@@ -116,6 +116,10 @@ hr {
   letter-spacing: -1.5px;
   line-height: 1;
   margin-bottom: 2.4rem;
+}
+
+.omelette-intro {
+  margin-bottom: 0.8rem;
 }
 
 .preparation-time {

@@ -27,11 +27,16 @@
   .omelette-pic {
     border-radius: 0;
     width: 100%;
-    margin: 0;
+    margin-bottom: 0;
+  }
+
+  .omelette-intro {
+    margin-bottom: 0;
   }
 
   .text-box {
     padding: 3.2rem 3.2rem;
+    gap: 3.2rem;
   }
 
   .omelette-intro h1 {
