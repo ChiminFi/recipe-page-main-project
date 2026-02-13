@@ -1,0 +1,44 @@
+@media (max-width: 900px) {
+  body {
+    background-color: #f8f9fa;
+  }
+
+  .container {
+    margin: 0 auto;
+  }
+  .omelette-recipe {
+    padding-top: 6.4rem;
+  }
+
+  .omelette-pic {
+    width: 65%;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    margin: 0;
+  }
+
+  .omelette-recipe {
+    padding: 0 0 1.6rem 0;
+  }
+
+  .omelette-pic {
+    border-radius: 0;
+    width: 100%;
+  }
+
+  .text-box {
+    padding: 3.2rem 4.8rem;
+  }
+
+  .omelette-intro h1 {
+    font-size: 3rem;
+    margin-bottom: 3.2rem;
+  }
+
+  h2 {
+    font-size: 2.4rem;
+  }
+}
